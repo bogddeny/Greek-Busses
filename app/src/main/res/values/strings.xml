@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Greek Busses</string>
+    <!-- Main Activity -->
+    <string name="confirm_button">Confirm</string>
+    <string name="ask_region">Please enter a valid region…</string>
+    <string name="content_desc">temp</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <!-- Menu Activity -->
+    <string name="title_home">Home</string>
+    <string name="title_line_categories">Line Categories</string>
+    <string name="line_cat">Line Category: </string>
+    <string name="title_tickets">Tickets</string>
+    <string name="title_news">News</string>
+    <string name="title_line">Line</string>
+    <string name="title_category">Category</string>
+    <string name="homeWelcomeTextView">Welcome to\nGreek Busses</string>
+    <string name="title_activity_temp">tempActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_test">testActivity</string>
+    <string name="error">Error</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_date_button">Select Date</string>
+    <string name="select_time_button">Select Time</string>
+    <string name="from">From</string>
+    <string name="descriptionTextView">Description</string>
+    <string name="mapButtom">Map</string>
+    <string name="title_activity_map">MapActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="contactButton">Contact</string>
+    <string name="cNameTextView">Name</string>
+    <string name="your_name">Your Name…</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="email">Email</string>
+    <string name="your_email">Your Email…</string>
+    <string name="your_message">Your Message…</string>
+    <string name="message">Message</string>
+    <string name="send_the_message">Send The Message</string>
+    <string name="issue_select">Please Select Your Issue…</string>
+    <string name="problem1">Problem with the app</string>
+    <string name="problem2">Problem with region lines</string>
+    <string name="problem3">Other problem</string>
+</resources>

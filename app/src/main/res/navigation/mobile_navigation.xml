@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="gr.greekbusses.fragments.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_lines"
+        android:name="gr.greekbusses.fragments.LinesFragment"
+        android:label="@string/title_line_categories"
+        tools:layout="@layout/fragment_lines" />
+
+    <fragment
+        android:id="@+id/navigation_tickets"
+        android:name="gr.greekbusses.fragments.TicketsFragment"
+        android:label="@string/title_tickets"
+        tools:layout="@layout/fragment_tickets" />
+
+
+    <fragment
+        android:id="@+id/navigation_news"
+        android:name="gr.greekbusses.fragments.NewsFragment"
+        android:label="@string/title_news"
+        tools:layout="@layout/fragment_news" />
+</navigation>
